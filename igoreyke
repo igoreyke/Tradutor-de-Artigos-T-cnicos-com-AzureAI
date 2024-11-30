@@ -1,0 +1,10 @@
+O Tradutor de Artigos Técnicos com Azure AI é uma solução que utiliza os serviços de inteligência artificial da Microsoft Azure para facilitar a tradução de textos técnicos e especializados. Essa ferramenta é particularmente útil para estudantes, pesquisadores e profissionais que precisam acessar conteúdos em diferentes idiomas, mantendo a precisão técnica e os termos específicos do domínio.
+
+Com o uso do Azure Cognitive Services, especialmente o Translator Text API, é possível realizar traduções em tempo real, garantindo maior eficiência e fluidez no processo. A solução também pode ser integrada a sistemas personalizados, permitindo adequações específicas, como glossários especializados ou preferências de estilo.
+
+Os principais benefícios incluem:
+
+Precisão técnica: preserva os termos específicos do domínio.
+Agilidade: realiza traduções de maneira rápida e em grandes volumes.
+Flexibilidade: suporta diversos idiomas e pode ser configurado para diferentes áreas do conhecimento.
+Acessibilidade: pode ser usado em aplicações web, mobile ou desktop.
